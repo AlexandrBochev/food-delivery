@@ -1,0 +1,1 @@
+export const FACE_URL = 'https://m.media-amazon.com/images/M/MV5BM2ZkZWEyNDctMDRmYy00NWM0LTg2ZjItNDdkZjc2YmMxZjY2XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg'
